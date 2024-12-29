@@ -1,0 +1,12 @@
+C:\Users\Mehmet Ali Dalbas\source\repos\VeriketProjesi\VeriketProjesi.WindowsService\bin\Release\VeriketProjesi.WindowsService.exe.config
+C:\Users\Mehmet Ali Dalbas\source\repos\VeriketProjesi\VeriketProjesi.WindowsService\bin\Release\VeriketProjesi.WindowsService.exe
+C:\Users\Mehmet Ali Dalbas\source\repos\VeriketProjesi\VeriketProjesi.WindowsService\bin\Release\VeriketProjesi.WindowsService.pdb
+C:\Users\Mehmet Ali Dalbas\source\repos\VeriketProjesi\VeriketProjesi.WindowsService\bin\Release\System.CodeDom.dll
+C:\Users\Mehmet Ali Dalbas\source\repos\VeriketProjesi\VeriketProjesi.WindowsService\bin\Release\System.CodeDom.xml
+C:\Users\Mehmet Ali Dalbas\source\repos\VeriketProjesi\VeriketProjesi.WindowsService\obj\Release\VeriketProjesi.WindowsService.csproj.AssemblyReference.cache
+C:\Users\Mehmet Ali Dalbas\source\repos\VeriketProjesi\VeriketProjesi.WindowsService\obj\Release\VeriketProjesi.WindowsService.ProjectInstaller.resources
+C:\Users\Mehmet Ali Dalbas\source\repos\VeriketProjesi\VeriketProjesi.WindowsService\obj\Release\VeriketProjesi.WindowsService.csproj.GenerateResource.cache
+C:\Users\Mehmet Ali Dalbas\source\repos\VeriketProjesi\VeriketProjesi.WindowsService\obj\Release\VeriketProjesi.WindowsService.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Ali Dalbas\source\repos\VeriketProjesi\VeriketProjesi.WindowsService\obj\Release\VeriketP.7D1D5925.Up2Date
+C:\Users\Mehmet Ali Dalbas\source\repos\VeriketProjesi\VeriketProjesi.WindowsService\obj\Release\VeriketProjesi.WindowsService.exe
+C:\Users\Mehmet Ali Dalbas\source\repos\VeriketProjesi\VeriketProjesi.WindowsService\obj\Release\VeriketProjesi.WindowsService.pdb

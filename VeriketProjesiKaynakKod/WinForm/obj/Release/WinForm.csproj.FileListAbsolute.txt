@@ -1,0 +1,10 @@
+C:\Users\Mehmet Ali Dalbas\source\repos\VeriketProjesi\WinForm\bin\Release\WinForm.exe.config
+C:\Users\Mehmet Ali Dalbas\source\repos\VeriketProjesi\WinForm\bin\Release\WinForm.exe
+C:\Users\Mehmet Ali Dalbas\source\repos\VeriketProjesi\WinForm\bin\Release\WinForm.pdb
+C:\Users\Mehmet Ali Dalbas\source\repos\VeriketProjesi\WinForm\obj\Release\WinForm.csproj.AssemblyReference.cache
+C:\Users\Mehmet Ali Dalbas\source\repos\VeriketProjesi\WinForm\obj\Release\WinForm.Form1.resources
+C:\Users\Mehmet Ali Dalbas\source\repos\VeriketProjesi\WinForm\obj\Release\WinForm.Properties.Resources.resources
+C:\Users\Mehmet Ali Dalbas\source\repos\VeriketProjesi\WinForm\obj\Release\WinForm.csproj.GenerateResource.cache
+C:\Users\Mehmet Ali Dalbas\source\repos\VeriketProjesi\WinForm\obj\Release\WinForm.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Ali Dalbas\source\repos\VeriketProjesi\WinForm\obj\Release\WinForm.exe
+C:\Users\Mehmet Ali Dalbas\source\repos\VeriketProjesi\WinForm\obj\Release\WinForm.pdb

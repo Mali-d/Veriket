@@ -1,0 +1,12 @@
+C:\Users\Mehmet Ali Dalbas\source\repos\VeriketProjesi\VeriketProjesi.WindowsService\bin\Debug\VeriketProjesi.WindowsService.exe.config
+C:\Users\Mehmet Ali Dalbas\source\repos\VeriketProjesi\VeriketProjesi.WindowsService\bin\Debug\VeriketProjesi.WindowsService.exe
+C:\Users\Mehmet Ali Dalbas\source\repos\VeriketProjesi\VeriketProjesi.WindowsService\bin\Debug\VeriketProjesi.WindowsService.pdb
+C:\Users\Mehmet Ali Dalbas\source\repos\VeriketProjesi\VeriketProjesi.WindowsService\bin\Debug\System.CodeDom.dll
+C:\Users\Mehmet Ali Dalbas\source\repos\VeriketProjesi\VeriketProjesi.WindowsService\bin\Debug\System.CodeDom.xml
+C:\Users\Mehmet Ali Dalbas\source\repos\VeriketProjesi\VeriketProjesi.WindowsService\obj\Debug\VeriketProjesi.WindowsService.csproj.AssemblyReference.cache
+C:\Users\Mehmet Ali Dalbas\source\repos\VeriketProjesi\VeriketProjesi.WindowsService\obj\Debug\VeriketProjesi.WindowsService.ProjectInstaller.resources
+C:\Users\Mehmet Ali Dalbas\source\repos\VeriketProjesi\VeriketProjesi.WindowsService\obj\Debug\VeriketProjesi.WindowsService.csproj.GenerateResource.cache
+C:\Users\Mehmet Ali Dalbas\source\repos\VeriketProjesi\VeriketProjesi.WindowsService\obj\Debug\VeriketProjesi.WindowsService.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Ali Dalbas\source\repos\VeriketProjesi\VeriketProjesi.WindowsService\obj\Debug\VeriketP.7D1D5925.Up2Date
+C:\Users\Mehmet Ali Dalbas\source\repos\VeriketProjesi\VeriketProjesi.WindowsService\obj\Debug\VeriketProjesi.WindowsService.exe
+C:\Users\Mehmet Ali Dalbas\source\repos\VeriketProjesi\VeriketProjesi.WindowsService\obj\Debug\VeriketProjesi.WindowsService.pdb
